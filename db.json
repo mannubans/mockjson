@@ -1,0 +1,28 @@
+{
+  "users" :[
+    {
+      "id": 1,
+      "name": "Anil",
+      "email":"anil@test.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 2,
+      "name": "udit",
+      "email":"anil@test.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 3,
+      "name": "nitin",
+      "email":"anil@test.com",
+      "mobile": 9876543210
+    },
+    {
+      "id": 4,
+      "name": "meen",
+      "email":"anil@test.com",
+      "mobile": 9876543210
+    }
+  ]
+}
